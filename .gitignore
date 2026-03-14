@@ -23,6 +23,8 @@ profile.cov
 # Go workspace file
 go.work
 go.work.sum
+nx-cache-server
+cache/
 
 # env file
 .env
